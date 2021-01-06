@@ -1,0 +1,12 @@
+**************
+PROCEDIMIENTO
+**************
+
+Los scripts (1) y (2) solamente se utilizaron para la apilacion y limpieza de las NUEVAS bases de datos. 
+Los pasos previos para la base de datos con descripciones truncadas se encuentran
+en otras carpeta.
+
+Luego en el paso (7) se procede a agregar la base de datos general (la antigua + la actualizacion) y luego se crea
+un paso siguiente que consiste en la correccion de categorias y subcategorias (8)
+
+Seguir detallando

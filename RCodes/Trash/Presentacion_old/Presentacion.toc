@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Revision de la Literatura}{3}{0}{1}
+\beamer@sectionintoc {2}{Descripci\'on de la base de datos}{6}{0}{2}
+\beamer@sectionintoc {3}{Descripci\'on de la base de duraciones}{15}{0}{3}
+\beamer@sectionintoc {4}{Modelo Econom\'etrico}{23}{0}{4}

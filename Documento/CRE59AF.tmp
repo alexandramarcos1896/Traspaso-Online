@@ -1,0 +1,176 @@
+\documentclass[12pt,a4paper,pdflatex]{article}
+
+\usepackage{amsmath}                                       % Símbolos matemáticos
+\usepackage{amsthm}                                        % Símbolos matemáticos
+\usepackage{amssymb}                                       % Símbolos matemáticos
+\usepackage[round, longnamesfirst]{natbib}                 % Referencias bibliográficas
+
+\usepackage{fancyhdr}                                      % Permite el uso de encabezados
+\usepackage{lscape}                                        % Rotacion de la pagina
+
+\usepackage{graphicx}                                      % Insertar figuras
+\usepackage{epstopdf}
+\usepackage{colortbl}                                      % Trabajar con colores
+%\usepackage{hyperref}                                     % Vínculos y personalización del pdf
+\usepackage{setspace}                                      % Espacios
+
+\usepackage{rotating}                                      % Tablas horizontales \begin{sidewaystable}
+\usepackage{enumitem}                                      % Listas personalizadas
+\usepackage{booktabs}                                      % Comandos para tablas, e.g. \toprule
+\usepackage{multirow}                                      % Para Tablas. Celdas formadas por múltiples filas
+\usepackage{tabularx}
+
+\usepackage[spanish]{babel}																 % Idioma español
+\usepackage{float}
+\usepackage[centerlast]{subfigure}
+\usepackage{rotfloat}
+\usepackage{caption}
+\usepackage[section]{placeins}
+\usepackage{bbm}
+\usepackage{anysize}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}                                %Division del documento
+\usepackage{titlesec}
+\usepackage[scaled]{uarial}
+\renewcommand*\familydefault{\sfdefault}
+
+%Margenes del documento segun formato PUCP
+\usepackage[top=4cm,bottom=2.5cm,left=3.5cm,right=2.5cm]{geometry}
+
+%Personalizacion del pdf
+\usepackage{color}
+\definecolor{darkred}{rgb}{0.5,0,0}
+\definecolor{darkblue}{rgb}{0,0,0.5}
+\usepackage[colorlinks,breaklinks,bookmarksnumbered,bookmarksopenlevel=2,unicode]{hyperref}               % Vínculos y personalización del pdf
+\hypersetup{
+  colorlinks,
+  citecolor=darkred,
+  linkcolor=darkred,
+  urlcolor=darkblue,
+	bookmarksopen=true, bookmarksopenlevel=3
+	}
+
+
+%%%%%%%%%%%%%%%%%%%% Formato del titulo
+\titleformat{\section}[block]
+{\normalfont\LARGE\filcenter}{\thesection}{1em}{}
+
+
+
+%%%%%%%%%%%%%%%%%%%% Primera página del artículo (macro \portada)
+\def\portada{
+\mbox{}\\[-2cm]
+\begin{center}
+    \mbox{}\\[6mm]
+    \large\textsc{\textbf{\institucion}} \\[1mm]
+    \large\textsc{\textbf{\facultad}}\\[12mm]
+    \includegraphics[scale=0.5]{logopucp.png}\\[10mm]
+    \large\textsc{\textbf{\title}}\\[8mm]
+    \large{\textbf{\presentacion}}\\[10mm]
+    \large{\textbf{\textoa}}\\[1.75mm]
+    \large{\textsf{\author}}\\[8mm]
+    \large{\textbf{\textob}}\\[1.75mm]
+    \large{\textsf{\asesor}}\\[11mm]
+    \large{\textsf{\date}}\\
+    %\vspace{15pt}
+\end{center}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%% Portada
+
+\def\institucion{PONTIFICIA UNIVERSIDAD CAT\'OLICA DEL PERU}
+\def\facultad{FACULTAD DE CIENCIAS SOCIALES}
+\def\title{El traspaso del tipo de cambio hacia los precios de internet}
+\def\presentacion{TESIS PARA OPTAR EL T\'ITULO PROFESIONAL DE LICENCIADO EN ECONOM\'IA}
+\def\textoa{AUTOR}
+\def\author{Alexandra Carolina Marcos Quispe}
+\def\textob{ASESOR}
+\def\asesor{Marco Antonio Vega De la Cruz}
+\def\date{Agosto, 2020}
+
+%%% Encabezados y pie de páginas and footers eliminate widows and orphan lines
+\clubpenalty=100000000
+\widowpenalty=10000000
+
+%Doble espacio segun formato pucp
+\renewcommand{\baselinestretch}{2}
+
+\begin{document}
+
+%Portada
+%%%%%%%%%%
+\portada
+
+\thispagestyle{empty}
+
+
+%Abstract
+%%%%%%%%%%
+\begin{abstract}
+Insertar abstract
+\\
+Palabras Claves:\\
+Clasificaci\'on JEL:
+\end{abstract}
+\thispagestyle{empty}
+\clearpage
+
+%%% Contenido
+\tableofcontents
+\thispagestyle{empty}
+\clearpage
+\listoffigures
+\thispagestyle{empty}
+\clearpage
+\listoftables
+\thispagestyle{empty}
+\clearpage
+
+\pagenumbering{roman}
+\newpage
+\section{Introducci\'on}\label{sec1}
+
+La revolucion digital es un proceso de creacion de nuevas tecnologias disruptivas. Estas tecnologias tienen la capacidad de transformarse continuamente, diversifcarse progresivamente e impulsar la productividad en todos los sectores e industrias.\\
+Esta transformaci\'on digital, principalmente dirigida por el internet, implica no solo la adaptación de nuevas tecnologias sino ademas, requiere que la economia se adapte a esta. La creacion de nuevas plataformas digitales son un ejemplo de como se ha reformulado la relacion entre los clientes, los trabajadores y los empleadores en la economia. A traves de estas plataformas se puede adquirir desde un producto para el hogar hasta un prestamo de consumo. Esto implica no solo una transformacion en los trabajos u oficios habituales de la economia, sino tambien, el replanteamiento completo de industrias como el comercio minorista, la industria editorial, y en un mundo no lejano, el sector bancario. \\
+El comercio minorista refleja visiblemente la transformacion digital de una industria y que da origen a una nueva industria conocida como el comercio 
+electr\'onico o e-commerce. La aparición de nuevas entidades o instituciones explican gran parte de esta revoluci\'on. \\
+Las Fintech ofrecen servicios financieros a trav\'es de plataformas digitales que las instituciones financieras como los bancos no pueden
+La aparicion de las monedas digitales como el bitcoin representan una nueva forma de acumular riqueza o comprar bienes sin la necesidad de dinero fisico. \\
+Por ultimo, la nueva forma de permutar productos a traves del comercio via internet conocido como e-commerce\\
+Lo anterior ha despertado la preocupacion de los policy makers a como responder antes estas nuevas pertubaciones.
+
+\newpage
+\section{Revisi\'on de la literatura}\label{sec2}
+
+Los estudios cl\'asicos del traspaso de tipo de cambio cuantifican la magnitud de respuesta de los precios ante fluctuaciones cambiarias utilizando informaci\'on a nivel agregada. Los resultados de estas investigaciones indican que existe un nivel de traspaso incompleto de corto y largo plazo para los diferentes \'indices de precios en la literatura \citep{burstein2014international, bussiere2013exchange}.
+
+Los hallazgos emp\'iricos muestran que el \'indice de precios al consumidor (CPI) presenta una sensibilidad uniformemente menor comparado con el \'indice de precios a las importaciones (IPI) dentro de una muestra de nueve econom\'ias desarrolladas\footnote{Estados Unidos, Jap\'on, Italia, Reino Unido, Francia, Alemania, Canad\'a y Suiza}. Resaltando el caso de Estados Unidos, el coeficiente de traspaso de corto y largo plazo para el \'indice de precios a las importaciones ($20\%$ y $51\%$) es por lo menos el doble comparado con el \'indice al consumidor ($6\%$ y $17\%$) \citep{burstein2014international}.
+
+A partir de esto, se puede evidenciar que existe un bajo grado de reacci\'on de los precios al consumidor y por lo tanto, una baja variac\'ion de los precios de la tiendas minoristas. Este fen\'omeno se evidencia en \citet{mccarthy2007} donde se demuestra una disminuci\'on 
+del traspaso sobre el CPI para las nueve econom\'ias del OECD. De acuerdo a las estimaciones, este traspaso ha disminuido por lo menos en un $50\%$ desde el a\~no 1983.
+
+Asimismo, el bajo grado de reacci\'on de los precios ante choques cambiarios se ha presentado en las econom\'ias latinoamericanas. En el caso peruano, el \'indice de precios a las importaciones presenta un coeficiente de $85\%$ y el \'indice de precios al consumidor presenta $46\%$ de respuesta. La conclusi\'on para el Per\'u es un traspaso peque\~no que ha ido disminuyendo en los \'ultimos a\~nos \citep{winkelried2003}.
+
+En este contexto econ\'omico, se han presentado distintos factores que expliquen el bajo grado de reacci\'on de los precios. Un factor resaltante es la adopci\'on de esquemas de metas de inflaci\'on y el nuevo r\'egimen cambiario denominado flotaci\'on sucia que ha originado una mayor estabilidad de precios \citep{winkelried2003}. Por otro lado, esta disminuci\'on del nivel de traspaso puede explicarse conjuntamente a trav\'es de factores microecon\'omicos.
+
+\citet{taylor2000} plantea que detr\'as del bajo nivel de traspaso sobre los precios y los costos en Estados Unidos se explica por la ca\'ida del poder de fijar precios por parte de las empresas. A trav\'es de un modelo microecon\'omico, se evidencia que los cambios observados en el poder de fijar precios se deben, en parte, a los cambios en las expectativas de los movimientos de variar precios y costos. Es decir, una firma estar\'ia dispuesta a subir\'ia sus precios o costos si esperaba que los cambios realizados ser\'ian permanentes.
+
+En vista del surgimiento de estudios microfundados, la literatura actual del traspaso busca examinar los factores que est\'an detr\'as de este coeficiente incompleto, a trav\'es del uso de datos desagregados. De los cuales, existe una variedad dependiendo del or\'igen de recolecci\'on. El primer grupo de datos se obtienen del conjunto de informaci\'on desagregada del CPI, tambi\'en est\'an aquellos datos que se recolectan escaneando directamente el producto de la tienda. El segundo grupo de datos y los m\'as utilizados en la actualidad son aquellos datos \textit{escrapeados} cuyo costo y facilidad de obtenci\'on radica en el hecho que es informaci\'on que se recolecta directamente de las p\'aginas de internet de las tiendas minoristas.
+
+Este \'ultimo grupo de datos ha dado surgimiento a una nueva variable econ\'omica conocida como los precios de internet. Una gran variedad de tiendas minoristas ofrecen sus productos a trav\'es de dos tipos de canales de ventas, su canal f\'isico en donde se realizan las transacciones en la propia tienda y el canal virtual, donde se realizan las transacciones utilizando la p\'agina web.
+
+Esta novedosa forma de recolecci\'on de informaci\'on ha permitido, a la par, continuar con las investigaciones que estudian el bajo grado de traspaso a un nivel muy espec\'ifico y al mismo tiempo enfocarse en analizar el grado de reacci\'on de un nuevo precio como es el precio de internet \citep{cavallo2016}. Tal nivel de desagregaci\'on permite la identificaci\'on \'unica de los productos y por consiguiente, la obtenci\'on de descripciones espec\'ificas del bien como la locaci\'on de la tienda, el grado de competencia a nivel de locaci\'on, la finalidad de uso del bien, si son productos importados o producidos localmente e incluso caracter\'isticas del precio del bien como su frecuencia de ajuste o la duraci\'on del precio \citep{NBERw20406,Gopinath2010,kim2003,gopinath2010itskhoki}.
+
+
+El primer factor que explica el traspaso incompleto del tipo de cambio son las rigideces de precios. Los modelos agregados macroeconómicos admiten la existencia de fricciones en el proceso de fijación de precios y estos explican la baja reacción de los precios ante choques agregados. Los costos de menú contabiliza el costo de optimizar continuamente los precios y ello deriva a que las empresas decidan sus precios en base a aquel que minimiza la pérdida.
+
+A nivel microeconómico, los modelos de coste de menú incorporan la existencia de ofertas o descuentos repentinos en la decisión de fijar precios (Kehoe y Nakamura, 2010; Guimaraes y Sheedy, 2011; Burstein y Hellwig, 2007). Las empresas están expuestas a dos situaciones, estas pueden optimizar continuamente sus precios sujetos a los costos que envuelven esta decisión o cambian sus precios temporalmente (precios de oferta) a un bajo costo (Kehoe y Nakamura, 2010). En el modelo los precios de oferta, los agentes deciden ajustar sus precios temporalmente continuamente en vez de fijar por tiempo prolongados.
+
+\newpage
+%\bibliographystyle{chicago}
+\bibliographystyle{plainnat}                            % Estilo bibliográfico compatible con natbit, otros no funcionaban :c
+\bibliography{TesisBIB}
+
+
+\end{document} 

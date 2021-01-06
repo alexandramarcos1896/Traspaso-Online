@@ -1,0 +1,32 @@
+{
+    "id": "7C23893C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1601134899096.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "lista3",
+        "caption": "lista3",
+        "totalObservations": 81,
+        "displayedObservations": 81,
+        "variables": 3,
+        "cacheKey": "6028B2C3",
+        "object": "lista3",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=lista3&cache_key=6028B2C3&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601134596,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601134899096,
+    "read_only": false,
+    "read_only_alternatives": []
+}

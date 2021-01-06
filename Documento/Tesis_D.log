@@ -1,0 +1,1323 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.16)  28 APR 2020 11:04
+entering extended mode
+**./Tesis_D.tex
+(Tesis_D.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.c
+ls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.cl
+o"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmat
+h.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstex
+t.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen
+.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy
+.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn
+.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.
+sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssy
+mb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfo
+nts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.
+sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count100
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancy
+hdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscap
+e.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+ics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
+sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
+raphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
+dftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+icx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
+l.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epsto
+pdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epsto
+pdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\inf
+warerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfex
+t.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltx
+cmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopt
+ions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvs
+etkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ete
+xcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifl
+uatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdf
+texcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifp
+df.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\color
+tbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.st
+y"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen114
+\ar@mcellbox=\box29
+\extrarowheight=\dimen115
+\NC@list=\toks26
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box30
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color
+.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
+olor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\everycr=\toks27
+\minrowclearance=\skip62
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setsp
+ace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotat
+ing.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.st
+y"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count101
+\rotFPtop=\skip63
+\rotFPbot=\skip64
+\rot@float@box=\box31
+\rot@mess@toks=\toks28
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumi
+tem.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip65
+\enit@outerparindent=\dimen116
+\enit@toks=\toks29
+\enit@inbox=\box32
+\enit@count@id=\count102
+\enitdp@description=\count103
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\bookt
+abs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen117
+\lightrulewidth=\dimen118
+\cmidrulewidth=\dimen119
+\belowrulesep=\dimen120
+\belowbottomsep=\dimen121
+\aboverulesep=\dimen122
+\abovetopsep=\dimen123
+\cmidrulesep=\dimen124
+\cmidrulekern=\dimen125
+\defaultaddspace=\dimen126
+\@cmidla=\count104
+\@cmidlb=\count105
+\@aboverulesep=\dimen127
+\@belowrulesep=\dimen128
+\@thisruleclass=\count106
+\@lastruleclass=\count107
+\@thisrulewidth=\dimen129
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multi
+row.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip66
+\multirow@cntb=\count108
+\multirow@dima=\skip67
+\bigstrutjot=\dimen130
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx
+.sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen131
+\TX@old@table=\dimen132
+\TX@old@col=\dimen133
+\TX@target=\dimen134
+\TX@delta=\dimen135
+\TX@cols=\count109
+\TX@ftn=\toks30
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2019/05/04 3.31 The Babel package
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch
+.def"
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.
+cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\
+spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+def"
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count110
+\U@D=\dimen136
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbab
+el.def")
+\bbl@dirlevel=\count111
+)
+\es@quottoks=\toks31
+\es@quotdepth=\count112
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.st
+y"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks32
+\float@box=\box33
+\@float@everytoks=\toks33
+\@floatcapt=\box34
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subf
+igure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip68
+\subfigcapskip=\skip69
+\subfigcaptopadj=\dimen137
+\subfigbottomskip=\skip70
+\subfigcapmargin=\dimen138
+\subfiglabelskip=\skip71
+\c@subfigure=\count114
+\c@lofdepth=\count115
+\c@subtable=\count116
+\c@lotdepth=\count117
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subf
+igure.cfg")
+\subfig@top=\skip72
+\subfig@bottom=\skip73
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rotfloat\rotfl
+oat.sty"
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen139
+\captionmargin@=\dimen140
+\captionwidth=\dimen141
+\caption@tempdima=\dimen142
+\caption@indent=\dimen143
+\caption@parindent=\dimen144
+\caption@hangindent=\dimen145
+)
+\c@caption@flags=\count118
+\c@ContinuedFloat=\count119
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/placeins\place
+ins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bbm\bbm.sty"
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/anysize\anysiz
+e.sty"
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen146
+\@Rightmargin=\dimen147
+\@Topmargin=\dimen148
+\@Bottommargin=\dimen149
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.s
+ty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def
+"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
+sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks34
+\inpenc@posthook=\toks35
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\title
+sec.sty"
+Package: titlesec 2019/07/16 v2.11 Sectioning titles
+\ttl@box=\box35
+\beforetitleunit=\skip74
+\aftertitleunit=\skip75
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks36
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arial\uarial.s
+ty"
+Package: uarial 2006/03/21 1.0 (WaS)
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geome
+try.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifv
+tex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxe
+tex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks37
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geome
+try.cfg"))
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyper
+ref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hob
+sub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hob
+sub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxho
+ok.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count123
+\Hy@pagecounter=\count124
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1en
+c.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count125
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyper
+ref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393
+.
+Package hyperref Info: Option `unicode' set `true' on input line 4393.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc
+.def"
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count126
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count127
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count128
+\c@Item=\count129
+\c@Hfootnote=\count130
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdft
+ex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count131
+\c@bookmark@seq@number=\count132
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerun
+filecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip76
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 51.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 51.
+
+
+LaTeX Warning: Unused global option(s):
+    [pdflatex].
+
+(Tesis_D.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+
+
+LaTeX Warning: Label `eq7' multiply defined.
+
+)
+\openout1 = `Tesis_D.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Try loading font information for T1+ua1 on input line 99.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arial\t1ua1.fd
+"
+File: t1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for T1/ua1.
+)
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 99.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
+pp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count133
+\scratchdimen=\dimen167
+\scratchbox=\box36
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen168
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
+\everyMPtoPDFconversion=\toks39
+)
+LaTeX Info: Redefining \. on input line 99.
+LaTeX Info: Redefining \% on input line 99.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 426.79135pt, 71.13188pt)
+* v-part:(T,H,B)=(113.81102pt, 660.10394pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=660.10394pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring ON on input line 99.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namer
+ef.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\get
+titlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count139
+)
+LaTeX Info: Redefining \ref on input line 99.
+LaTeX Info: Redefining \pageref on input line 99.
+LaTeX Info: Redefining \nameref on input line 99.
+ (Tesis_D.out) (Tesis_D.out)
+\@outlinefile=\write3
+\openout3 = `Tesis_D.out'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 103.
+
+LaTeX Font Warning: Font shape `T1/ua1/m/sc' undefined
+(Font)              using `T1/ua1/m/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `T1/ua1/bx/sc' undefined
+(Font)              using `T1/ua1/bx/n' instead on input line 103.
+
+LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 103.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 103.
+LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
+(Font)              scaled to size 13.67995pt on input line 103.
+LaTeX Font Info:    Font shape `T1/ua1/bx/sc' in size <14.4> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 103.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 103.
+<logopucp.png, id=39, 529.0164pt x 155.6214pt>
+File: logopucp.png Graphic file (type png)
+<use logopucp.png>
+Package pdftex.def Info: logopucp.png  used on input line 103.
+(pdftex.def)             Requested size: 264.50755pt x 77.8105pt.
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 110.
+LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 110.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 110.
+[1
+
+{C:/Users/Alexandra/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logop
+ucp.png>] [2]
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 19.70294pt on input line 120.
+ (Tesis_D.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <12> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 2.
+LaTeX Font Info:    Font shape `T1/ua1/bx/sc' in size <12> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 2.
+LaTeX Font Info:    Font shape `T1/ua1/bx/sc' in size <8> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 7.59998pt on input line 2.
+
+
+Package spanish Warning: Replacing `T1/ua1/bx/sc' by 
+(spanish)                faked small caps on input line 2.
+
+
+Package spanish Warning: Replacing `T1/ua1/bx/sc' by 
+(spanish)                faked small caps on input line 3.
+
+
+Package spanish Warning: Replacing `T1/ua1/bx/sc' by 
+(spanish)                faked small caps on input line 4.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.
+fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+
+("C:\Users\Alexandra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.
+fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
+(Font)              scaled to size 11.39996pt on input line 5.
+LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
+(Font)              scaled to size 7.59998pt on input line 5.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 5.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 6.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 7.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 8.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 9.
+
+
+Package spanish Warning: Replacing `T1/ua1/bx/sc' by 
+(spanish)                faked small caps on input line 10.
+
+)
+\tf@toc=\write4
+\openout4 = `Tesis_D.toc'.
+
+ [3
+
+] (Tesis_D.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 2.
+
+)
+\tf@lof=\write5
+\openout5 = `Tesis_D.lof'.
+
+ [4
+
+] (Tesis_D.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write6
+\openout6 = `Tesis_D.lot'.
+
+ [5
+
+]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 144.
+
+[1
+
+]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 152.
+
+[2]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 161.
+
+[3]
+LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
+(Font)              scaled to size 11.39996pt on input line 165.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 173.
+
+[4]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 181.
+
+[5]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 197.
+
+[6]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 219.
+
+[7]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 231.
+
+[8]
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ...dia el impacto diferenciado de pequeño mo
+                                                  vimiento del tipo de cambi...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242 ...po de cambio a lo largo de la duración de
+                                                   la vigencia del precio an...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 243.
+
+[9]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 245.
+
+[10]
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 252.
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 252.
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 252.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 258.
+
+[11]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 266.
+
+[12]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 276.
+
+[13]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 282.
+
+[14]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 293.
+
+[15]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 295.
+
+[16]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 303.
+
+[17]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 316.
+
+[18]
+<metodologia.png, id=279, 528.47438pt x 419.31656pt>
+File: metodologia.png Graphic file (type png)
+<use metodologia.png>
+Package pdftex.def Info: metodologia.png  used on input line 322.
+(pdftex.def)             Requested size: 369.92953pt x 293.51958pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! Package inputenc Error: Invalid UTF-8 byte "FA.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.332 ...n de los productos seg\'un su uso y por ú
+                                                  ltimo, $Z$ el grupo de var...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 333.
+
+[19]
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 338.
+
+[20 <./metodologia.png>]
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.348 ...o inicial del bien y captura el tamaño de
+                                                  l precio.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 350.
+
+[21] (Tesis_D.bbl
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.38 ...of Economics and Statistics\/}~{\em 100\/}
+                                                  (1), 105--119.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.38 ...of Economics and Statistics\/}~{\em 100\/}
+                                                  (1), 105--119.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ... @sh@~@\string \em 100\/@\endcsname 
+                                                  
+l.38 ...of Economics and Statistics\/}~{\em 100\/}
+                                                  (1), 105--119.
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.45 ...nal of Economic Perspectives\/}~{\em 30\/}
+                                                  (2), 151--78.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.45 ...nal of Economic Perspectives\/}~{\em 30\/}
+                                                  (2), 151--78.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...p @sh@~@\string \em 30\/@\endcsname 
+                                                  
+l.45 ...nal of Economic Perspectives\/}~{\em 30\/}
+                                                  (2), 151--78.
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.52 ...l of International Economics\/}~{\em 40\/}
+                                                  (1), 187 -- 207.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.52 ...l of International Economics\/}~{\em 40\/}
+                                                  (1), 187 -- 207.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...p @sh@~@\string \em 40\/@\endcsname 
+                                                  
+l.52 ...l of International Economics\/}~{\em 40\/}
+                                                  (1), 187 -- 207.
+I'm ignoring this, since I wasn't doing a \csname.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 60.
+
+[22
+
+]
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.63 ...rterly Journal of Economics\/}~{\em 125\/}
+                                                  (2), 675--727.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.63 ...rterly Journal of Economics\/}~{\em 125\/}
+                                                  (2), 675--727.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ... @sh@~@\string \em 125\/@\endcsname 
+                                                  
+l.63 ...rterly Journal of Economics\/}~{\em 125\/}
+                                                  (2), 675--727.
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.69 ...em American Economic Review\/}~{\em 100\/}
+                                                  (1), 304--36.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.69 ...em American Economic Review\/}~{\em 100\/}
+                                                  (1), 304--36.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ... @sh@~@\string \em 100\/@\endcsname 
+                                                  
+l.69 ...em American Economic Review\/}~{\em 100\/}
+                                                  (1), 304--36.
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.96 ...\em Eastern Economic Journal\/}~{\em 33\/}
+                                                  (4), 511--537.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.96 ...\em Eastern Economic Journal\/}~{\em 33\/}
+                                                  (4), 511--537.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...p @sh@~@\string \em 33\/@\endcsname 
+                                                  
+l.96 ...\em Eastern Economic Journal\/}~{\em 33\/}
+                                                  (4), 511--537.
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.108 \newblock {\em Annu. Rev. Econ.\/}~{\em 5\/}
+                                                  (1), 133--163.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.108 \newblock {\em Annu. Rev. Econ.\/}~{\em 5\/}
+                                                  (1), 133--163.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...up @sh@~@\string \em 5\/@\endcsname 
+                                                  
+l.108 \newblock {\em Annu. Rev. Econ.\/}~{\em 5\/}
+                                                  (1), 133--163.
+I'm ignoring this, since I wasn't doing a \csname.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 111.
+
+[23]
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.120 ...em European Economic Review\/}~{\em 44\/}
+                                                  (7), 1389--1408.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \/
+l.120 ...em European Economic Review\/}~{\em 44\/}
+                                                  (7), 1389--1408.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...p @sh@~@\string \em 44\/@\endcsname 
+                                                  
+l.120 ...em European Economic Review\/}~{\em 44\/}
+                                                  (7), 1389--1408.
+I'm ignoring this, since I wasn't doing a \csname.
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 359.
+
+
+Package spanish Warning: Replacing `T1/ua1/m/sc' by 
+(spanish)                faked small caps on input line 359.
+
+[24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 359.
+ (Tesis_D.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 359.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 359.
+Package rerunfilecheck Info: File `Tesis_D.out' has not changed.
+(rerunfilecheck)             Checksum: 95B9254A477276E0FAC7280D05485241;1830.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 359.
+ ) 
+Here is how much of TeX's memory you used:
+ 13795 strings out of 492895
+ 200849 string characters out of 3121867
+ 296177 words of memory out of 3000000
+ 17401 multiletter control sequences out of 15000+200000
+ 84595 words of font info for 65 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,8n,43p,964b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Alexandra/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r
+.enc}<C:/Users/Alexandra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi12.pfb><C:/Users/Alexandra/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alexandra/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alexandra/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/
+Alexandra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><C:/Users/Alexandra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/Alexandra/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Alexandra/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/urw/arial/ua1b8a.pfb><C:/Users/Alexandra/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/urw/arial/ua1r8a.pfb><C:/Users/Alexandra/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/urw/arial/ua1ri8a.pfb>
+Output written on Tesis_D.pdf (29 pages, 217627 bytes).
+PDF statistics:
+ 365 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+

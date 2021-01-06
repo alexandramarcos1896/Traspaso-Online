@@ -1,0 +1,71 @@
+\documentclass[12pt,a4paper,pdflatex]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}                                       % S\'imbolos matem\'iticos
+\usepackage{amsthm}                                        % S\'imbolos matem\'iticos
+\usepackage{amssymb}                                       % S\'imbolos matem\'iticos
+\usepackage[round, longnamesfirst]{natbib}                 % Referencias bibliogr\'ificas
+%\usepackage{cite}
+%\usepackage{apacite} Permite utilizar el formato APA, revisar que version se esta utilizando.
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[center]{caption}
+\usepackage{fancyhdr}
+\usepackage{lscape}
+
+\usepackage{rotating}                                      % Tablas horizontales \begin{sidewaystable}
+\usepackage{enumitem}                                      % Listas personalizadas
+\usepackage{booktabs}                                      % Comandos para tablas, e.g. \toprule
+\usepackage{multirow}                                      % Para Tablas. Celdas formadas por múltiples filas
+\usepackage{tabularx}
+\usepackage{tabu}
+\usepackage{booktabs}% for better rules in the table
+\usepackage{colortbl}
+\usepackage{graphicx}
+
+\usepackage[round, longnamesfirst]{natbib}                 % Referencias bibliogr\'aficas
+
+\begin{document}
+
+\begin{table}[!hbt]
+\centering
+\caption{\textit{Estudios microecon\'omicos del Traspaso del tipo de cambio}}\label{tab:tabla1}
+\scalebox{0.80}{
+\begin{tabular}{p{3cm}p{3cm}m{3.5cm}c{3cm}c{2.5cm}c{3cm}}
+  \hline
+  \textbf{Autor(es)} & \textbf{Pa\'ises} & \textbf{Variable end\'ogena} & \textbf{Controles} & \textbf{Resultados} & \textbf{Base de Datos} \\
+	\hline
+	\multicolumn{6}{>{\columncolor[gray]{0.8}}l}{Precios en el \'Indice del Precios al Consumidor (IPC)}\\
+	\hline
+	\citet{kochen2016price}& M\'exico & Variaci\'on acumulada del cambio de precios &  & d & E\\
+	\hline
+	\multicolumn{6}{>{\columncolor[gray]{0.8}}l}{Precios escaneados directamente de las tiendas minorista}\\
+	\hline
+	a & b & c& c & d & E\\
+	\bottomrule
+\end{tabular}
+}
+\end{table}
+
+\newpage
+
+\begin{table}[!hbt]
+\centering
+\caption{\textit{Estudios microecon\'omicos del Traspaso del tipo de cambio}}\label{tab:tabla2}
+\scalebox{0.80}{
+\begin{tabular}{p{3cm}p{3cm}m{3.5cm}c{3cm}c{2.5cm}c{3cm}}
+  \hline
+  \textbf{Autor(es)} & \textbf{Pa\'ises} & \textbf{Variable end\'ogena} & \textbf{Controles} & \textbf{Resultados} & \textbf{Base de Datos} \\
+	\hline
+	\multicolumn{6}{>{\columncolor[gray]{0.8}}l}{Precios recolectados de p\'aginas de internet}\\
+	\hline
+	a & b & c& c & d & E\\
+	\bottomrule
+\end{tabular}
+}
+\end{table}
+
+\bibliographystyle{chicago}                            % Estilo bibliogr\'afico compatible con natbit, otros no funcionaban :c
+\bibliography{TesisBIB}
+
+\end{document}
