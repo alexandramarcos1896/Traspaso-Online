@@ -80,8 +80,6 @@ base <- base %>% left_join(lista3 %>% select(-repeticiones), by = "subcategoria"
 lista4 <- base %>%group_by(ID,subcategoria)%>% summarise(repeticiones = n()) %>%
   ungroup()
 
-lista3 <- lista4 %>% filter(ID %in% lista_repeticiones$ID)
-
 lista5 <- lista4 %>%
   mutate(subcategoria = ifelse(str_detect(subcategoria,"tv"),"tv led",subcategoria),
          subcategoria = ifelse(str_detect(subcategoria,"home theater"),"home theater y soundbar",subcategoria),
@@ -136,5 +134,8 @@ export(base_clasificacion,"../output/Adicionales/Lista_Clasificadores.xlsx")
 base <- base_c %>% select(pais,tienda,fecha,ID,categoria,subcategoria,marca,descripcion,
                           precio_normal,precio_internet,precio_member,precio_normal_completo,
                           precio_member_completo,rating,id)
+
+# Numerico
+base[,c("precio_normal","precio_internet")] <- lapply(base[,c("precio_normal","precio_internet")] , as.numeric)
 
 save(base,file= "../output/MasterData/Base_Final_Peru_2.RData")
