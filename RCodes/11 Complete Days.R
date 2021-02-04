@@ -1,8 +1,5 @@
 
-
 # Completar dias ----------------------------------------------------------
-
-
 
 # (1)Limpiar memoria y cargar librerias -----------------------------------
 graphics.off()
@@ -53,7 +50,7 @@ base_c$precio_internet_completo = base_c$precio_internet
 base_ll = generalizar(base_c)
 
 "Guardamos"
-fv_save = paste0(dirmother,"/Base/Base_Final_Peru_completa_01.RData")
+fv_save = "../output/MasterData/Base_Final_Peru_completa_01.RData"
 save(base_ll,file = fv_save)
 
 rm(base_c)
