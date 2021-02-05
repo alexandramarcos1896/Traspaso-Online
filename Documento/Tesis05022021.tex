@@ -1,0 +1,161 @@
+\documentclass[12pt,a4paper,pdflatex]{article}
+\usepackage{amsmath}                                       % S\'imbolos matem\'aticos
+\usepackage{amsthm}                                        % S\'imbolos matem\'aticos
+\usepackage{amssymb}                                       % S\'imbolos matem\'aticos
+\usepackage[round, longnamesfirst]{natbib}                 % Referencias bibliogr\'aficas
+
+\usepackage{fancyhdr}                                      % Permite el uso de encabezados
+\usepackage{lscape}                                        % Rotacion de la pagina
+
+\usepackage{graphicx}                                      % Insertar figuras
+\usepackage{epstopdf}
+\usepackage{colortbl}                                      % Trabajar con colores
+%\usepackage{hyperref}                                     % V\'inculos y personalizaci\'on del pdf
+\usepackage{setspace}                                      % Espacios
+
+\usepackage{rotating}                                      % Tablas horizontales \begin{sidewaystable}
+\usepackage{enumitem}                                      % Listas personalizadas
+\usepackage{booktabs}                                      % Comandos para tablas, e.g. \toprule
+\usepackage{multirow}                                      % Para Tablas. Celdas formadas por múltiples filas
+\usepackage{tabularx}
+
+\usepackage[spanish]{babel}																 % Idioma español
+\usepackage{float}
+\usepackage[centerlast]{subfigure}
+\usepackage{rotfloat}
+\usepackage{caption}
+\usepackage[section]{placeins}
+\usepackage{bbm}
+\usepackage{anysize}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}                                %Division del documento
+\usepackage{titlesec}
+\usepackage[scaled]{uarial}
+\renewcommand*\familydefault{\sfdefault}
+
+%Margenes del documento segun formato PUCP
+\usepackage[top=4cm,bottom=2.5cm,left=3.5cm,right=2.5cm]{geometry}
+
+%Personalizacion del pdf
+\usepackage{color}
+\definecolor{darkred}{rgb}{0.5,0,0}
+\definecolor{darkblue}{rgb}{0,0,0.5}
+\usepackage[colorlinks,breaklinks,bookmarksnumbered,bookmarksopenlevel=2,unicode]{hyperref}               % V\'inculos y personalizaci\'on del pdf
+\hypersetup{
+  colorlinks,
+  citecolor=darkred,
+  linkcolor=darkred,
+  urlcolor=darkblue,
+	bookmarksopen=true, bookmarksopenlevel=3
+	}
+%%%%%%%%%%%%%%%%%%%% Formato del titulo
+\titleformat{\section}[block]
+{\normalfont\LARGE\filcenter}{\thesection}{1em}{}
+
+
+
+%%%%%%%%%%%%%%%%%%%% Primera p\'agina del art\'iculo (macro \portada)
+\def\portada{
+\mbox{}\\[-2cm]
+\begin{center}
+    \mbox{}\\[6mm]
+    \large\textsc{\textbf{\institucion}} \\[1mm]
+    \large\textsc{\textbf{\facultad}}\\[12mm]
+    \includegraphics[scale=0.5]{logopucp.png}\\[10mm]
+    \large\textsc{\textbf{\title}}\\[8mm]
+    \large{\textbf{\presentacion}}\\[10mm]
+    \large{\textbf{\textoa}}\\[1.75mm]
+    \large{\textsf{\author}}\\[8mm]
+    \large{\textbf{\textob}}\\[1.75mm]
+    \large{\textsf{\asesor}}\\[11mm]
+    \large{\textsf{\date}}\\
+    %\vspace{15pt}
+\end{center}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%% Portada
+
+\def\institucion{PONTIFICIA UNIVERSIDAD CAT\'OLICA DEL PERU}
+\def\facultad{FACULTAD DE CIENCIAS SOCIALES}
+\def\title{El traspaso del tipo de cambio hacia los precios de internet}
+\def\presentacion{TESIS PARA OPTAR EL T\'ITULO PROFESIONAL DE LICENCIADO EN ECONOM\'IA}
+\def\textoa{AUTOR}
+\def\author{Alexandra Carolina Marcos Quispe}
+\def\textob{ASESOR}
+\def\asesor{Marco Antonio Vega De la Cruz}
+\def\date{Agosto, 2020}
+
+%%% Encabezados y pie de p\'aginas and footers eliminate widows and orphan lines
+\clubpenalty=100000000
+\widowpenalty=10000000
+
+%Doble espacio segun formato pucp
+\renewcommand{\baselinestretch}{2}
+
+\begin{document}
+
+%Portada
+%%%%%%%%%%
+\portada
+
+\thispagestyle{empty}
+
+
+%Abstract
+%%%%%%%%%%
+\begin{abstract}
+Insertar abstract
+\\
+Palabras Claves:\\
+Clasificaci\'on JEL:
+\end{abstract}
+\thispagestyle{empty}
+\clearpage
+
+%%% Contenido
+\tableofcontents
+\thispagestyle{empty}
+\clearpage
+\listoffigures
+\thispagestyle{empty}
+\clearpage
+\listoftables
+\thispagestyle{empty}
+\clearpage
+
+\pagenumbering{roman}
+\newpage
+
+%-----------Nuevocapitulo-----------------------------------------
+\section{Introducci\'on}\label{sec1}
+
+En la actualidad, los pa\'ises se encuentran ante una revoluci\'on digital que proyecta el incremento de miles de millones de conexiones entre personas, procesos industriales y de negocios, y de datos. Este proceso tiene por denominaci\'on el internet de las cosas (Internet of Everything) y se estima que generar\'a enormes oportunidades de progreso para los pa\'ises \citep{lombardero2015trabajar}.
+
+La digitalizaci\'on de la econom\'ia est\'a estrechamente ligado con esta transformaci\'on tecnolog\'ica, basado en la convergencia de redes y aplicaciones que permitir\'a garantizar la sostenibilidad econ\'omica y social \citep{lombardero2015trabajar}. Dentro del crecimiento de nuevos procesos, el m\'as relevante es la distribuci\'on comercial del sector retail.
+
+El mercado retail se caracteriza por el comercio de ventas al por menor. Dentro de este sector se encuentran las tiendas por departamento, los centros comerciales, las tiendas de conveniencia, entre otras. La creaci\'on de un nuevo canal de distribuci\'on comercial ha cambiado la forma en c\'omo se relacionan los consumidores, las firmas o tiendas retail e incluso los trabajadores \citep{rey2017transformacion}. 
+
+El espectacular crecimiento de la distribuci\'on comercial a trav\'es del canal online, y en particular la venta v\'ia dispositivos m\'oviles, es signo claro de esta transformaci\'on. Esta nueva forma de comercializaci\'on virtual del mercado retail se le denomina "`e-commerce"' y su creaci\'on genera, actualmente, la mayor\'ia del crecimiento de ventas de mucho de estas tiendas \citep{global2016global}.
+
+La transformaci\'on digital de las tiendas f\'isicas hacia tiendas m\'as omnipresentes ha dado paso a la creaci\'on de nuevas variables econ\'omicas como son los precios de internet. La recolecci\'on de esta informaci\'on contenida en las paginas web de las tiendas retail ha sido posible gracias al avance digital de los datos. La creaci\'on de programas automatizados como el "`scraping"' permiten, a costo bajo, la implementaci\'on y el dise\~no de larga escala de recolecci\'on de datos en la web \citep{cavallo2016billion}.
+
+Inicialmente, el uso de estos nuevos datos recolectados de las paginas web eran utilizados en investigaciones que buscaban caracterizar el comportamiento de los precios a nivel microecon\'omico \citep{cavallo2018scraped}. Asi como, encontrar diferencias o similaridades con los precios tradicionales. Sin embargo, el avance de este sector ha dado paso a un nuevo tipo de investigaciones que buscan entender la vulnerabilidad de los precios de internet ante los choque macroecon\'omicos.
+
+En el Per\'u, el comercio electr\'onico ha sido ampliamente aceptado y ello, se refleja en el aumento de las tasas de crecimiento de sus ventas y sus proyecciones de ventas.
+
+Por otro lado, la vulnerabilidad de las econom\'ias abiertas y dolarizadas como la peruana tiene en parte su origen en las fluctuaciones del tipo de cambio. La literatura tradicional concluye que el efecto traspaso del tipo de cambio ha ido disminuyendo hasta tener una magnitud muy reducida, lo que ha ido restando su importancia. Sin embargo, la aparici\'on de un nuevo tipo de precio, el precio de internet, ha despertado el inter\'es por estudiar su grado de reacci\'on ante los movimientos cambiarios y otros choques macroecon\'omicos.
+
+El presente trabajo se centra en estudiar el grado de reacci\'on de los precios de internet ante fluctuaciones cambiarias utilizando un enfoque microecon\'omico para el sector retail en el Per\'u. Esto se basa en la reciente literatura que busca explicar traspaso incompleto y reducido hacia los precios de los consumidores usando un enfoque microecon\'omico.
+
+\textcolor[rgb]{1,0.41,0.13}{Explica literatura de esto}
+
+\textcolor[rgb]{1,0.41,0.13}{PREGUNTA DE INVESTIGACION:
+}A la luz de lo expuesto, se busca responder la siguiente pregunta de investigaci\'on: 
+
+
+\textcolor[rgb]{1,0.41,0.13}{RESUMEN DE LA ESTRUCTURA DEL DOCUMENTO
+} 
+\newpage
+
+
+\end{document}

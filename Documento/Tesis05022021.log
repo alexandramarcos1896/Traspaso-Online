@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.4)  5 FEB 2021 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.4)  5 FEB 2021 00:17
 entering extended mode
-**./15072020Tesis.tex
-(15072020Tesis.tex
+**./Tesis05022021.tex
+(Tesis05022021.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03>
 (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -537,16 +537,16 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip82
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 51.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 51.
-LaTeX Font Info:    Trying to load font information for T1+ua1 on input line 99
+Package hyperref Info: Option `colorlinks' set `true' on input line 50.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 50.
+LaTeX Font Info:    Trying to load font information for T1+ua1 on input line 95
 .
 
 (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/arial\t1ua1.fd
 File: t1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for T1/ua1.
 )
 LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 99.
+(Font)              scaled to size 11.39996pt on input line 95.
 
 (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
@@ -558,34 +558,27 @@ File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [pdflatex].
 
-(15072020Tesis.aux
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+No file Tesis05022021.aux.
+\openout1 = `Tesis05022021.aux'.
 
-
-LaTeX Warning: Label `eq7' multiply defined.
-
-)
-\openout1 = `15072020Tesis.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
 
 (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -602,8 +595,8 @@ ii
 \makeMPintoPDFobject=\count302
 \everyMPtoPDFconversion=\toks40
 )
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -642,7 +635,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 99.
+Package hyperref Info: Link coloring ON on input line 95.
 (C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -655,530 +648,118 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count303
 )
-LaTeX Info: Redefining \ref on input line 99.
-LaTeX Info: Redefining \pageref on input line 99.
-LaTeX Info: Redefining \nameref on input line 99.
- (15072020Tesis.out) (15072020Tesis.out)
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
 \@outlinefile=\write3
-\openout3 = `15072020Tesis.out'.
+\openout3 = `Tesis05022021.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 
  []
 
 LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 103.
+(Font)              scaled to size 13.67995pt on input line 99.
 
 LaTeX Font Warning: Font shape `T1/ua1/m/sc' undefined
-(Font)              using `T1/ua1/m/n' instead on input line 103.
+(Font)              using `T1/ua1/m/n' instead on input line 99.
 
 
 LaTeX Font Warning: Font shape `T1/ua1/b/sc' undefined
-(Font)              using `T1/ua1/b/n' instead on input line 103.
+(Font)              using `T1/ua1/b/n' instead on input line 99.
 
 LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 103.
+(Font)              scaled to size 13.67995pt on input line 99.
 LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
-(Font)              scaled to size 13.67995pt on input line 103.
+(Font)              scaled to size 13.67995pt on input line 99.
 LaTeX Font Info:    Font shape `T1/ua1/b/sc' will be
-(Font)              scaled to size 13.67995pt on input line 103.
-<logopucp.png, id=39, 529.0164pt x 155.6214pt>
+(Font)              scaled to size 13.67995pt on input line 99.
+<logopucp.png, id=3, 529.0164pt x 155.6214pt>
 File: logopucp.png Graphic file (type png)
 <use logopucp.png>
-Package pdftex.def Info: logopucp.png  used on input line 103.
+Package pdftex.def Info: logopucp.png  used on input line 99.
 (pdftex.def)             Requested size: 264.50755pt x 77.8105pt.
 LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 110.
+(Font)              scaled to size 10.40245pt on input line 106.
 LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
-(Font)              scaled to size 10.40245pt on input line 110.
+(Font)              scaled to size 10.40245pt on input line 106.
 [1
 
 {C:/Users/alexa/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./logopucp.png>
 ] [2]
 LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 120.
- (15072020Tesis.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 2.
-LaTeX Font Info:    Font shape `T1/ua1/b/sc' will be
-(Font)              scaled to size 11.39996pt on input line 2.
-LaTeX Font Info:    Font shape `T1/ua1/b/sc' will be
-(Font)              scaled to size 7.59998pt on input line 2.
-
-
-Package spanish Warning: Replacing `T1/ua1/b/sc' by 
-(spanish)                faked small caps on input line 2.
-
-
-Package spanish Warning: Replacing `T1/ua1/b/sc' by 
-(spanish)                faked small caps on input line 3.
-
-
-Package spanish Warning: Replacing `T1/ua1/b/sc' by 
-(spanish)                faked small caps on input line 4.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
-(C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
-
-(C:\Users\alexa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
-(Font)              scaled to size 11.39996pt on input line 5.
-LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
-(Font)              scaled to size 7.59998pt on input line 5.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 5.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 6.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 7.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 8.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 9.
-
-
-Package spanish Warning: Replacing `T1/ua1/b/sc' by 
-(spanish)                faked small caps on input line 10.
-
-)
+(Font)              scaled to size 19.70294pt on input line 116.
 \tf@toc=\write4
-\openout4 = `15072020Tesis.toc'.
+\openout4 = `Tesis05022021.toc'.
 
  [3
 
-] (15072020Tesis.lof
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 2.
-
-)
+]
 \tf@lof=\write5
-\openout5 = `15072020Tesis.lof'.
+\openout5 = `Tesis05022021.lof'.
 
  [4
 
-] (15072020Tesis.lot
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+]
 \tf@lot=\write6
-\openout6 = `15072020Tesis.lot'.
+\openout6 = `Tesis05022021.lot'.
 
  [5
 
 ]
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 132.
+
+
+Package natbib Warning: Citation `lombardero2015trabajar' on page \es@scroman {
+i} undefined on input line 132.
+
+
+Package natbib Warning: Citation `lombardero2015trabajar' on page \es@scroman {
+i} undefined on input line 134.
+
+
+Package natbib Warning: Citation `rey2017transformacion' on page \es@scroman {i
+} undefined on input line 136.
+
+
+Package natbib Warning: Citation `global2016global' on page \es@scroman {i} und
+efined on input line 138.
+
+
+Package natbib Warning: Citation `cavallo2016billion' on page \es@scroman {i} u
+ndefined on input line 140.
+
+LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
+(Font)              scaled to size 11.39996pt on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/m/sc' will be
+(Font)              scaled to size 7.59998pt on input line 141.
 
 Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 144.
+(spanish)                faked small caps on input line 141.
 
 [1
 
 ]
 
+Package natbib Warning: Citation `cavallo2018scraped' on page \es@scroman {ii} 
+undefined on input line 142.
+
+
 Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 152.
+(spanish)                faked small caps on input line 150.
 
 [2]
 
 Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 161.
+(spanish)                faked small caps on input line 158.
 
 [3]
-LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
-(Font)              scaled to size 11.39996pt on input line 165.
 
+Package natbib Warning: There were undefined citations.
 
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 173.
-
-[4]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 181.
-
-[5]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 197.
-
-[6]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 219.
-
-[7]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 231.
-
-[8]
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.234 ...dia el impacto diferenciado de pequeño mo
-                                                  vimiento del tipo de cambi...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.242 ...po de cambio a lo largo de la duración de
-                                                   la vigencia del precio an...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 243.
-
-[9]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 245.
-
-[10]
-LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 252.
-LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 252.
-LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 252.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 258.
-
-[11]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 266.
-
-[12]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 276.
-
-[13]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 282.
-
-[14]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 293.
-
-[15]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 295.
-
-[16]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 303.
-
-[17]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 316.
-
-[18]
-<metodologia.png, id=279, 528.47438pt x 419.31656pt>
-File: metodologia.png Graphic file (type png)
-<use metodologia.png>
-Package pdftex.def Info: metodologia.png  used on input line 322.
-(pdftex.def)             Requested size: 369.92953pt x 293.51958pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-! Package inputenc Error: Invalid UTF-8 byte "FA.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ...n de los productos seg\'un su uso y por ú
-                                                  ltimo, $Z$ el grupo de var...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 333.
-
-[19]
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 338.
-
-[20 <./metodologia.png>]
-
-! Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.348 ...o inicial del bien y captura el tamaño de
-                                                  l precio.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 350.
-
-[21] (15072020Tesis.bbl
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.38 ...of Economics and Statistics\/}~{\em 100\/}
-                                                  (1), 105--119.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.38 ...of Economics and Statistics\/}~{\em 100\/}
-                                                  (1), 105--119.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ... @sh@~@\string \em 100\/@\endcsname 
-                                                  
-l.38 ...of Economics and Statistics\/}~{\em 100\/}
-                                                  (1), 105--119.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.45 ...nal of Economic Perspectives\/}~{\em 30\/}
-                                                  (2), 151--78.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.45 ...nal of Economic Perspectives\/}~{\em 30\/}
-                                                  (2), 151--78.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ...p @sh@~@\string \em 30\/@\endcsname 
-                                                  
-l.45 ...nal of Economic Perspectives\/}~{\em 30\/}
-                                                  (2), 151--78.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.52 ...l of International Economics\/}~{\em 40\/}
-                                                  (1), 187 -- 207.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.52 ...l of International Economics\/}~{\em 40\/}
-                                                  (1), 187 -- 207.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ...p @sh@~@\string \em 40\/@\endcsname 
-                                                  
-l.52 ...l of International Economics\/}~{\em 40\/}
-                                                  (1), 187 -- 207.
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 60.
-
-[22
-
-]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.63 ...rterly Journal of Economics\/}~{\em 125\/}
-                                                  (2), 675--727.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.63 ...rterly Journal of Economics\/}~{\em 125\/}
-                                                  (2), 675--727.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ... @sh@~@\string \em 125\/@\endcsname 
-                                                  
-l.63 ...rterly Journal of Economics\/}~{\em 125\/}
-                                                  (2), 675--727.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.69 ...em American Economic Review\/}~{\em 100\/}
-                                                  (1), 304--36.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.69 ...em American Economic Review\/}~{\em 100\/}
-                                                  (1), 304--36.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ... @sh@~@\string \em 100\/@\endcsname 
-                                                  
-l.69 ...em American Economic Review\/}~{\em 100\/}
-                                                  (1), 304--36.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.96 ...\em Eastern Economic Journal\/}~{\em 33\/}
-                                                  (4), 511--537.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.96 ...\em Eastern Economic Journal\/}~{\em 33\/}
-                                                  (4), 511--537.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ...p @sh@~@\string \em 33\/@\endcsname 
-                                                  
-l.96 ...\em Eastern Economic Journal\/}~{\em 33\/}
-                                                  (4), 511--537.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.108 \newblock {\em Annu. Rev. Econ.\/}~{\em 5\/}
-                                                  (1), 133--163.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.108 \newblock {\em Annu. Rev. Econ.\/}~{\em 5\/}
-                                                  (1), 133--163.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ...up @sh@~@\string \em 5\/@\endcsname 
-                                                  
-l.108 \newblock {\em Annu. Rev. Econ.\/}~{\em 5\/}
-                                                  (1), 133--163.
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 111.
-
-[23]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.120 ...em European Economic Review\/}~{\em 44\/}
-                                                  (7), 1389--1408.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \/
-l.120 ...em European Economic Review\/}~{\em 44\/}
-                                                  (7), 1389--1408.
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-<argument> ...p @sh@~@\string \em 44\/@\endcsname 
-                                                  
-l.120 ...em European Economic Review\/}~{\em 44\/}
-                                                  (7), 1389--1408.
-I'm ignoring this, since I wasn't doing a \csname.
-
-)
-
-Package spanish Warning: Replacing `T1/ua1/m/sc' by 
-(spanish)                faked small caps on input line 359.
-
-[24] (15072020Tesis.aux
+(Tesis05022021.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
@@ -1186,34 +767,31 @@ LaTeX Info: Redefining \% on input line 25.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `15072020Tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 329064D012A186DF01BF07EE335EFBDD;1821.
+
+Package rerunfilecheck Warning: File `Tesis05022021.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Tesis05022021.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  8EDA5DDA9F67CB589910A8C8814F951E;118.
  ) 
 Here is how much of TeX's memory you used:
- 14654 strings out of 479618
- 217639 string characters out of 2865027
- 523532 words of memory out of 3000000
- 31484 multiletter control sequences out of 15000+200000
- 484385 words of font info for 78 fonts, out of 3000000 for 9000
+ 14359 strings out of 479618
+ 212449 string characters out of 2865027
+ 519716 words of memory out of 3000000
+ 31295 multiletter control sequences out of 15000+200000
+ 453628 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,978b,526s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,7n,74p,584b,469s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
-/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
-2.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmmi8.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr12.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr6.pfb><C:/Users/alexa/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/alexa/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alexa/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/alexa/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/urw/arial/ua1b8a.pfb><C:/Users/alexa/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/urw/arial/ua1r8a.pfb><C:/Users/alexa/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/urw/arial/ua1ri8a.pfb>
-Output written on 15072020Tesis.pdf (29 pages, 217634 bytes).
+/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1b8a.pfb><C:
+/Users/alexa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1r8a.pfb>
+Output written on Tesis05022021.pdf (8 pages, 55250 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
